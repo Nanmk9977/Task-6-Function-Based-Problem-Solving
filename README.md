@@ -21,17 +21,6 @@ This repository contains six real-world problem simulations built using core Pyt
 
 ---
 
-## 🔍 Key Features
-
-✔ Modular function-based architecture
-✔ Real-time simulation logic
-✔ Conditional decision systems
-✔ Loop-based dynamic counting
-✔ Dictionary and list data handling
-✔ Clean, readable, and scalable structure
-
----
-
 ## 🛠 Technical Stack
 
 * **Language:** Python 3
@@ -53,19 +42,6 @@ This repository contains six real-world problem simulations built using core Pyt
 * Implemented performance classification models
 * Practiced modular coding for maintainability
 * Simulated real-time industry applications
-
----
-
-## 📈 Real-World Impact Simulation
-
-These systems represent simplified models of:
-
-* Smart City Infrastructure
-* Cloud Monitoring Dashboards
-* DevOps Alert Systems
-* Event Registration Platforms
-* Energy Optimization Systems
-* Logistics & Delivery Platforms
 
 ---
 
